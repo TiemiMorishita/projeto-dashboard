@@ -30,7 +30,7 @@
     width: 28%;
     height: 57%;
     border-radius: 50%;
-    left: 10%;
+    left: 11%;
     top: 22%;
     background: #3B3770;
 }
@@ -40,7 +40,7 @@
     width: 28%;
     height: 57%;
     border-radius: 50%;
-    left: 35%;
+    left: 36%;
     top: 22%;
     background: #715697;
 }
@@ -50,7 +50,7 @@
     width: 28%;
     height: 57%;
     border-radius: 50%;
-    left: 60%;
+    left: 61%;
     top: 22%;
     background: #8883BB;
 }
@@ -72,10 +72,21 @@
     left: 7%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	text-align:center;
+    text-decoration: none;
     font-weight: 400;
     font-size: 20px;
     line-height: 33px;
     color: #E4DAE8;
+}
+
+a:link{
+    color: #E4DAE8;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #E4DAE8;
+    text-decoration: none;
 }
 
 .pag-inicial{
@@ -98,11 +109,113 @@
     background: linear-gradient(360deg, #D9D9D9 43%, #d9d9d9b1 80%, #d9d9d96c 95%, #d9d9d900 100%);
 }
 
+.caixa-texto1{
+    position: absolute;
+	width:65%;
+	height:70%;
+	right:10%;
+	top:13%;
+    background: #ffffff80;
+    border-radius: 20px;
+}
+
+.caixa-texto2{
+    position: absolute;
+	width:85%;
+	height:85%;
+	right:7.5%;
+	top:5%;
+    background: #ffffff80;
+    border-radius: 20px;
+}
+
+#img1{
+    position: absolute;
+	border-radius: 20px;
+    max-height: 62%;
+    position:absolute;
+    top: 17%;
+    left: 10%;
+}
+
+.titulo1{
+    color:#1b1935;
+	position:absolute;
+	left:14%;
+	top:3%;
+	font-family:Baskerville Old Face;
+	text-align:center;
+	font-size:35px;
+	letter-spacing:0;
+}
+
+.texto1{
+    position: absolute;
+    left: 14%;
+    top: 25%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    line-height: 33px;
+    color: #1B1935;
+    line-height: 30px;
+}
+
+.texto2{
+    position: absolute;
+    left: 35%;
+    top: 25%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    line-height: 30px;
+    color: #83708A;
+    line-height: 32.5px;
+}
+
+#e1{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14%;
+    top: 21.5%;
+}
+
+#e2{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 17%;
+    top: 21.5%;
+}
+
+#e3{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 20%;
+    top: 21.5%;
+}
+
+#e4{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 23%;
+    top: 21.5%;
+}
+
+#e5{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 26%;
+    top: 21.5%;
+}
+
 .rodape{
     position: relative;
     width: 100%;
     height: 4%;
     left: 0;
     bottom: 0;
-    background: #E8E8E8;
+    background: #d3b5d8;
 }
