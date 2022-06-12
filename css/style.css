@@ -112,9 +112,10 @@ a:visited{
 .caixa-texto1{
     position: absolute;
 	width:65%;
-	height:70%;
+	height:75%;
 	right:10%;
-	top:13%;
+    left: 24%;
+	top:10%;
     background: #ffffff80;
     border-radius: 20px;
 }
@@ -129,46 +130,44 @@ a:visited{
     border-radius: 20px;
 }
 
-#img1{
+#img{
     position: absolute;
 	border-radius: 20px;
     max-height: 62%;
     position:absolute;
-    top: 17%;
-    left: 10%;
+    top: 16%;
+    right: 70%;;
 }
 
 .titulo1{
-    color:#1b1935;
+    color:#302b7c;
 	position:absolute;
 	left:14%;
-	top:3%;
+	top:2%;
 	font-family:Baskerville Old Face;
 	text-align:center;
 	font-size:35px;
-	letter-spacing:0;
 }
 
 .texto1{
     position: absolute;
     left: 14%;
-    top: 25%;
+    top: 26%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 33px;
-    color: #1B1935;
-    line-height: 30px;
+    color: #1c194b;
+    line-height: 25px;
 }
 
 .texto2{
     position: absolute;
-    left: 35%;
-    top: 25%;
+    left: 38%;
+    top: 26%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 17px;
-    line-height: 30px;
+    font-size: 20px ;
     color: #83708A;
-    line-height: 32.5px;
+    line-height: 25px;
 }
 
 #e1{
@@ -176,7 +175,7 @@ a:visited{
     width: 20px;
     height: 20px;
     left: 14%;
-    top: 21.5%;
+    top: 20%;
 }
 
 #e2{
@@ -184,7 +183,7 @@ a:visited{
     width: 20px;
     height: 20px;
     left: 17%;
-    top: 21.5%;
+    top: 20%;
 }
 
 #e3{
@@ -192,7 +191,7 @@ a:visited{
     width: 20px;
     height: 20px;
     left: 20%;
-    top: 21.5%;
+    top: 20%;
 }
 
 #e4{
@@ -200,7 +199,7 @@ a:visited{
     width: 20px;
     height: 20px;
     left: 23%;
-    top: 21.5%;
+    top: 20%;
 }
 
 #e5{
@@ -208,7 +207,7 @@ a:visited{
     width: 20px;
     height: 20px;
     left: 26%;
-    top: 21.5%;
+    top: 20%;
 }
 
 .rodape{
@@ -217,5 +216,80 @@ a:visited{
     height: 4%;
     left: 0;
     bottom: 0;
-    background: #d3b5d8;
+    background: #E8E8E8;
+}
+
+.titulo2{
+    color:#302b7c;
+	position:absolute;
+    left: 40%;
+    right: 40%;
+    top: 0;
+	font-family:Baskerville Old Face;
+	text-align:center;
+	font-size:40px;
+}
+
+.texto3{
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px ;
+    color: #83708A;
+    text-align: center;
+}
+
+.titulo3{
+    color:#1c194b;
+	position:absolute;
+    top: -4%;
+	left:25%;
+	right:25%;
+	font-family:Baskerville Old Face;
+	text-align:center;
+	font-size:40px; 
+}
+
+.texto4{
+    position: absolute;
+    left: 14%;
+    top: 18.2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: #302b7c;
+    line-height: 16.2px;
+}
+
+.texto5{
+    position: absolute;
+    left: 38%;
+    right: 5%;
+    top: 19%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: #83708A;
+    line-height: 16px;
+}
+
+.texto6{
+    position: absolute;
+    left: 14%;
+    top: 18%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 21px;
+    color: #302b7c;
+    line-height: 23.3px;
+}
+
+.texto7{
+    position: absolute;
+    left: 38%;
+    right: 5%;
+    top: 19%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color: #83708A;
+    line-height: 17px;
 }
