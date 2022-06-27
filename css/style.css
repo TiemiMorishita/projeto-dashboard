@@ -3,7 +3,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    position:absolute;
+    position: absolute;
 }
 
 .roxo{
@@ -11,7 +11,7 @@
     height: 10%;
     left: 0;
     top: 0;
-    position:relative;
+    position: relative;
     background-color: #8B87B4;
 }
 
@@ -71,7 +71,7 @@
     top: 5%;
     left: 7%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-	text-align:center;
+	text-align: center;
     text-decoration: none;
     font-size: 20px;
     line-height: 33px;
@@ -93,10 +93,10 @@ a:visited{
     height: 90%;
     right: 0;
     top: 10%;
-    position:absolute;
-    background-image:url(imagens/img2.jpeg);
-    background-repeat:no-repeat;
-    background-size:cover;
+    position: absolute;
+    background-image: url(imagens/img2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .gradiente{
@@ -110,21 +110,21 @@ a:visited{
 
 .caixa-texto1{
     position: absolute;
-	width:65%;
-	height:75%;
-	right:10%;
+	width: 65%;
+	height: 75%;
+	right: 10%;
     left: 24%;
-	top:10%;
+	top: 10%;
     background: #ffffff80;
     border-radius: 20px;
 }
 
 .caixa-texto2{
     position: absolute;
-	width:85%;
-	height:85%;
-	right:7.5%;
-	top:5%;
+	width: 85%;
+	height: 85%;
+	right: 7.5%;
+	top: 5%;
     background: #ffffff80;
     border-radius: 20px;
 }
@@ -133,19 +133,19 @@ a:visited{
     position: absolute;
 	border-radius: 20px;
     max-height: 62%;
-    position:absolute;
+    position: absolute;
     top: 16%;
     right: 70%;;
 }
 
 .titulo1{
-    color:#302b7c;
-	position:absolute;
-	left:14%;
-	top:2%;
+    color: #302b7c;
+	position: absolute;
+	left: 14%;
+	top: 2%;
 	font-family:Baskerville Old Face;
-	text-align:center;
-	font-size:35px;
+	text-align: center;
+	font-size: 35px;
 }
 
 .texto1{
