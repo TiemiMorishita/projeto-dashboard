@@ -19,8 +19,8 @@
     position: relative;
     width: 10%;
     height: 100%;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
     background: #2C285E;
     box-shadow: 5px 0px 10px #00000040;
 }
@@ -59,7 +59,7 @@
     position: relative;
     width: 10%;
     height: 86%;
-    left: 0px;
+    left: 0;
     top: 0;
     background: linear-gradient(180deg, #3B3770 0%, #715697 100%);
     mix-blend-mode: normal;
@@ -73,7 +73,6 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	text-align:center;
     text-decoration: none;
-    font-weight: 400;
     font-size: 20px;
     line-height: 33px;
     color: #E4DAE8;
@@ -155,7 +154,6 @@ a:visited{
     top: 26%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
-    line-height: 33px;
     color: #1c194b;
     line-height: 25px;
 }
@@ -226,8 +224,8 @@ a:visited{
     right: 40%;
     top: 0;
 	font-family:Baskerville Old Face;
-	text-align:center;
-	font-size:40px;
+	text-align: center;
+	font-size: 40px;
 }
 
 .texto3{
@@ -245,11 +243,11 @@ a:visited{
     color:#1c194b;
 	position:absolute;
     top: -4%;
-	left:25%;
-	right:25%;
-	font-family:Baskerville Old Face;
-	text-align:center;
-	font-size:40px; 
+	left: 25%;
+	right: 25%;
+	font-family: Baskerville Old Face;
+	text-align: center;
+	font-size: 40px; 
 }
 
 .texto4{
